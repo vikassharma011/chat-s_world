@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     
-    "start": "node index.js",
-    "build": "react-scripts build"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
